@@ -5,7 +5,7 @@ References to books and blogs I have read or plan to read.
 
 [Operating Systems: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Twitter thread](https://x.com/7etsuo/status/1842376226117394924)
-  - [os-tep-bc]: https://notes.akjn.dev/notes/ostep/
+  - [os-tep-bc](https://notes.akjn.dev/notes/ostep/)
 
 [Advanced programming in the Unix environment](https://stevens.netmeister.org/631/)
   - [Notes about APUE](https://notes.shichao.io/apue)
