@@ -6,3 +6,9 @@
 
 [Advanced programming in the Unix environment](https://stevens.netmeister.org/631/)
   - [Notes about APUE](https://notes.shichao.io/apue)
+
+[Mike Acton's famous Data-Oriented-Design talk](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+
+[Handmade Hero](https://guide.handmadehero.org/)
+
+[Data Oriented Design](https://guide.handmadehero.org/)
