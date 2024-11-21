@@ -2,4 +2,4 @@
 
 [Refactoring UI](https://www.refactoringui.com/)
 
-[CSS for Javascript Developers](https://css-for-js.dev/)
+[Josh Comeau's Blog](https://www.joshwcomeau.com/)
