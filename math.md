@@ -5,3 +5,5 @@
 [Book of proof](https://richardhammack.github.io/BookOfProof/Main.pdf)
 
 [Linear Algebra Done Right](https://linear.axler.net/)
+
+[Mathematical Logic by Kleene](https://x.com/DiracGhost/status/1859709309317472645)
