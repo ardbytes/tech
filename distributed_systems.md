@@ -5,3 +5,5 @@
 [MIT 6.5840](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 [Fly.io distributed challenges](https://fly.io/dist-sys/)
+
+[Database Query Processing](https://x.com/eatonphil/status/1860745381123907995)
