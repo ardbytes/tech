@@ -3,3 +3,5 @@
 [Brandon Rohrer Blog](https://e2eml.school/blog.html)
 
 [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
+
+[Coursera: Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
