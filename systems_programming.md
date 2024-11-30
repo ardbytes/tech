@@ -12,3 +12,5 @@
 [Handmade Hero](https://guide.handmadehero.org/)
 
 [Data Oriented Design](https://guide.handmadehero.org/)
+
+[An Intro to C for Windows Devs](https://www.sans.org/webcasts/intro-c-windows-devs/)
