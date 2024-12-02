@@ -9,8 +9,10 @@
 
 [Mike Acton's famous Data-Oriented-Design talk](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 
-[Handmade Hero](https://guide.handmadehero.org/)
+[Data Oriented Design](https://www.dataorienteddesign.com/dodbook/)
 
-[Data Oriented Design](https://guide.handmadehero.org/)
+[Chess Engine in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
 
 [An Intro to C for Windows Devs](https://www.sans.org/webcasts/intro-c-windows-devs/)
+
+[Handmade Hero](https://guide.handmadehero.org/)
