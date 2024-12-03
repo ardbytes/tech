@@ -9,3 +9,5 @@
 [Fly.io distributed challenges](https://fly.io/dist-sys/)
 
 [Database Query Processing](https://x.com/eatonphil/status/1860745381123907995)
+
+[17 real world system design interview questions](https://x.com/RaulJuncoV/status/1863574782085607823)
