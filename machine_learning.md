@@ -4,6 +4,8 @@
 
 [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
 
+[The hundred page language models book](https://thelmbook.com/)
+
 [Coursera: Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
 
 [YT: Backpropagation from the ground up](https://www.youtube.com/watch?v=SmZmBKc7Lrs)
