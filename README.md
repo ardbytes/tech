@@ -8,3 +8,10 @@ References to books and blogs I have read or plan to read.
 [rsrch.space](https://www.rsrch.space/)
 
 [whop.com: Make money online. Learn new skills](https://x.com/cultured)
+
+Learn the following in [order listed](https://x.com/vaibhaw_vipul/status/1867459615459619291):
+
+1. Computer Architecture
+2. Operating Systems
+3. Networking
+4. Distributed Systems
