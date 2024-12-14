@@ -1,3 +1,5 @@
+[Computer Architecture course recommended by Abhinav Upadhyay](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule)
+
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
 [Operating Systems: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
