@@ -1,12 +1,12 @@
 [Computer Architecture course recommended by Abhinav Upadhyay](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule)
 
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-
 [Operating Systems: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Book Club](https://notes.akjn.dev/notes/ostep/)
 
 [Advanced programming in the Unix environment](https://stevens.netmeister.org/631/)
   - [Notes about APUE](https://notes.shichao.io/apue)
+
+[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
 [Mike Acton's famous Data-Oriented-Design talk](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 
