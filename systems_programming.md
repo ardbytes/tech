@@ -1,3 +1,5 @@
+[Digital Design and Computer Architecture recommended by Vipul Vaibhav](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf)
+
 [Computer Architecture course recommended by Abhinav Upadhyay](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule)
 
 [Operating Systems: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
