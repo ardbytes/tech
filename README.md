@@ -15,3 +15,8 @@ Learn the following in [order listed](https://x.com/vaibhaw_vipul/status/1867459
 2. Operating Systems
 3. Networking
 4. Distributed Systems
+
+Software projects:
+
+1. Interpreters and Compilers ( Monkey Language by Thorsten Ball )
+2. Database ( Limbo )
