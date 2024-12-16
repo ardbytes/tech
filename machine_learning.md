@@ -2,6 +2,8 @@
 
 [Brandon Rohrer Blog](https://e2eml.school/blog.html)
 
+[sumit.ml: Getting started with Machine Learning](https://www.sumit.ml/blog/Getting-started-with-Machine-Learning)
+
 [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
 
 [The hundred page language models book](https://thelmbook.com/)
