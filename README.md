@@ -9,6 +9,8 @@ References to books and blogs I have read or plan to read.
 
 [whop.com: Make money online. Learn new skills](https://x.com/cultured)
 
+[mcyoung syllabus](https://mcyoung.xyz/syllabus)
+
 Learn the following in [order listed](https://x.com/vaibhaw_vipul/status/1867459615459619291):
 
 1. Computer Architecture
