@@ -11,3 +11,5 @@
 [Coursera: Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
 
 [YT: Backpropagation from the ground up](https://www.youtube.com/watch?v=SmZmBKc7Lrs)
+
+[Machine learning theory](https://x.com/caglar_ee/status/1874416161783476280)
