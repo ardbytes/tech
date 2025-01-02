@@ -2,6 +2,8 @@
 
 [Computer Architecture course recommended by Abhinav Upadhyay](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule)
 
+[Art of 64-bit Assembly: Recommended in FFmpeg assembly programming course](https://artofasm.randallhyde.com/)
+
 [Operating Systems: Three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   - [Book Club](https://notes.akjn.dev/notes/ostep/)
 
