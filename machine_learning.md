@@ -2,7 +2,7 @@
 
 [Brandon Rohrer Blog](https://e2eml.school/blog.html)
 
-[sumit.ml: Getting started with Machine Learning](https://www.sumit.ml/blog/Getting-started-with-Machine-Learning)
+[sumit.ml: Getting started with Machine Learning](https://www.sumit.ml/blog/getting-started-with-machine-learning)
 
 [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
 
