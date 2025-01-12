@@ -1,5 +1,7 @@
 [Build a LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 
+[Neural Networks from Scratch: Prereq for Karpathy's 0 to hero playlist](https://x.com/normie_gautam/status/1877747667645682057)
+
 [Brandon Rohrer Blog](https://e2eml.school/blog.html)
 
 [sumit.ml: Getting started with Machine Learning](https://www.sumit.ml/blog/getting-started-with-machine-learning)
