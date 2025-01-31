@@ -6,6 +6,7 @@
 4. [What is Rack](https://younes.codes/posts/what-is-rack)
 5. [JSON optimazations by byroot](https://byroot.github.io/)
 6. [Linux Container in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+7. [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 
 #### Routine
 
