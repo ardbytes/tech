@@ -1,6 +1,6 @@
 #### Current
 * Book reading: Operating Systems in Three easy pieces
-* [Transformers: Deep Dive]](https://www.brandonrohrer.com/transformers)
+* [Transformers: Deep Dive](https://www.brandonrohrer.com/transformers)
 * [AI Engineering by Chip Huyen](https://github.com/chiphuyen/aie-book)
 * [LLM from Scratch by Sebastian](https://github.com/rasbt/LLMs-from-scratch)
 * [JSON optimazations by byroot](https://byroot.github.io/)
