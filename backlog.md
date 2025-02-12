@@ -23,4 +23,5 @@
 #### Code Reading
 
 * [Ruby standard library](https://stdgems.org/)
+* [Make MySQL better](https://enhancedformysql.github.io/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better/)
 
