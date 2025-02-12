@@ -6,6 +6,7 @@
 #### Networking
 
 * [freeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw)
+* [TCPCopy: Recommended by @wangbin579](https://github.com/session-replay-tools/tcpcopy)
 
 #### System Design
 
