@@ -10,12 +10,12 @@
 
 1. [Backend](/backend.md)
 
-# 4-Week Ruby/Rails Blog Reading Schedule
+# 6-Week Ruby/Rails Blog Reading Schedule
 **Start Date**: March 24, 2025  
 **Notes**:  
 - One blog per weekday, ~20-30 minutes daily.  
-- No weekends.  
-- Repeats every 4 weeks with slight variation.
+- No weekends (Monday to Friday only).  
+- Covers all 16 blogs (13 original + Shopify, GitHub, Airbnb, Basecamp) with minimal repetition.
 
 ---
 
@@ -27,7 +27,7 @@
 - **Wednesday, March 26**: *GoRails*  
   - **Focus**: Read a tutorial on a Rails feature (e.g., ActionCable).  
 - **Thursday, March 27**: *Ruby Weekly*  
-  - **Focus**: Skim the latest newsletter (assuming it’s released) or the most recent one.  
+  - **Focus**: Skim the latest newsletter or the most recent one.  
 - **Friday, March 28**: *The Ruby Toolbox Blog*  
   - **Focus**: Check out a gem review or ecosystem update.  
 
@@ -54,24 +54,52 @@
   - **Focus**: Tackle a Ruby internals deep dive (e.g., VM or GC).  
 - **Wednesday, April 9**: *Avdi Grimm’s Blog*  
   - **Focus**: Read a philosophical or object-model post.  
-- **Thursday, April 10**: *RubyGuides*  
-  - **Focus**: Revisit for a performance or Enumerable tip.  
-- **Friday, April 11**: *thoughtbot Blog*  
-  - **Focus**: Check a Rails optimization or gem-related article.  
+- **Thursday, April 10**: *Shopify Engineering Blog*  
+  - **Focus**: Explore a Ruby/Rails scaling post (e.g., Vitess or YARP).  
+- **Friday, April 11**: *GitHub Engineering Blog*  
+  - **Focus**: Check a Ruby-related post or API development article.  
 
 ---
 
 ## Week 4: April 14 - April 18, 2025
-- **Monday, April 14**: *GoRails*  
+- **Monday, April 14**: *Airbnb Engineering Blog*  
+  - **Focus**: Read a Ruby or Rails backend engineering post.  
+- **Tuesday, April 15**: *Basecamp Blog*  
+  - **Focus**: Dive into a Ruby on Rails engineering post (e.g., scaling HEY).  
+- **Wednesday, April 16**: *RubyGuides*  
+  - **Focus**: Revisit for a performance or Enumerable tip.  
+- **Thursday, April 17**: *thoughtbot Blog*  
+  - **Focus**: Check a Rails optimization or gem-related article.  
+- **Friday, April 18**: *GoRails*  
   - **Focus**: Explore a deployment or API-related post.  
-- **Tuesday, April 15**: *Ruby Weekly*  
+
+---
+
+## Week 5: April 21 - April 25, 2025
+- **Monday, April 21**: *Ruby Weekly*  
   - **Focus**: Review the latest issue for new links and trends.  
-- **Wednesday, April 16**: *BigBinary Blog*  
+- **Tuesday, April 22**: *BigBinary Blog*  
   - **Focus**: Read about a Ruby or Rails under-the-hood topic.  
-- **Thursday, April 17**: *SitePoint Ruby*  
+- **Wednesday, April 23**: *SitePoint Ruby*  
   - **Focus**: Pick an advanced Ruby technique article.  
-- **Friday, April 18**: *Drifting Ruby*  
+- **Thursday, April 24**: *Drifting Ruby*  
   - **Focus**: Catch another quick Ruby/Rails tip or screencast.  
+- **Friday, April 25**: *The Ruby Toolbox Blog*  
+  - **Focus**: Explore a new tool or library comparison.  
+
+---
+
+## Week 6: April 28 - May 2, 2025
+- **Monday, April 28**: *Code with Jason*  
+  - **Focus**: Dive deeper into a testing or refactoring topic.  
+- **Tuesday, April 29**: *Everyday Rails*  
+  - **Focus**: Continue with testing or a practical Rails tip.  
+- **Wednesday, April 30**: *Pat Shaughnessy*  
+  - **Focus**: Read another internals post (e.g., memory management).  
+- **Thursday, May 1**: *Avdi Grimm’s Blog*  
+  - **Focus**: Explore a Ruby coding pattern or philosophy.  
+- **Friday, May 2**: *Shopify Engineering Blog*  
+  - **Focus**: Revisit for a Ruby tooling or performance post.  
 
 ---
 
@@ -81,4 +109,4 @@
 - **Engage**: Comment on posts or share on X to connect with the community.  
 - **Track Progress**: Note one key takeaway daily to reinforce learning.  
 
-**Next Steps**: After Week 4, repeat the cycle, mixing up the order or exploring archives. Adjust start date as needed.
+**Next Steps**: After Week 6, repeat the cycle, shuffling the order or exploring archives. Adjust start date as needed.
