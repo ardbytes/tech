@@ -13,23 +13,23 @@
 # 6-Week Ruby/Rails Blog Reading Schedule
 **Start Date**: March 24, 2025  
 **Notes**:  
-- One blog per weekday, ~20-30 minutes daily.  
-- No weekends (Monday to Friday only).  
+- One blog per weekday, ~20-30 minutes daily.
 - Covers all 16 blogs (13 original + Shopify, GitHub, Airbnb, Basecamp) with minimal repetition.
 
 ---
 
 ## Week 1: March 24 - March 28, 2025
+- [Getting started with Rails](https://guides.rubyonrails.org/getting_started.html)
 - **Monday, March 24**: *RubyGuides*  
   - **Focus**: Pick a Ruby fundamentals or metaprogramming post.  
-- **Tuesday, March 25**: *thoughtbot Blog*  
+- **Tuesday, March 25**: *thoughtbot Blog*
   - **Focus**: Explore a Rails testing or refactoring article.  
 - **Wednesday, March 26**: *GoRails*  
   - **Focus**: Read a tutorial on a Rails feature (e.g., ActionCable).  
 - **Thursday, March 27**: *Ruby Weekly*  
   - **Focus**: Skim the latest newsletter or the most recent one.  
 - **Friday, March 28**: *The Ruby Toolbox Blog*  
-  - **Focus**: Check out a gem review or ecosystem update.  
+  - **Focus**: Check out a gem review or ecosystem update.
 
 ---
 
