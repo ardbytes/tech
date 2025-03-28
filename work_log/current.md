@@ -27,9 +27,7 @@
 - **Wednesday, March 26**: *GoRails*  
   - **Focus**: Read a tutorial on a Rails feature (e.g., ActionCable).  
 - **Thursday, March 27**: *Ruby Weekly*  
-  - **Focus**: Skim the latest newsletter or the most recent one.  
-- **Friday, March 28**: *The Ruby Toolbox Blog*  
-  - **Focus**: Check out a gem review or ecosystem update.
+  - **Focus**: Skim the latest newsletter or the most recent one.
 
 ---
 
@@ -86,7 +84,7 @@
   - **Focus**: Pick an advanced Ruby technique article.  
 - **Thursday, April 24**: *Drifting Ruby*  
   - **Focus**: Catch another quick Ruby/Rails tip or screencast.  
-- **Friday, April 25**: *The Ruby Toolbox Blog*  
+- **Friday, April 25**: *Read Sustainable Dev Environments*  
   - **Focus**: Explore a new tool or library comparison.  
 
 ---
