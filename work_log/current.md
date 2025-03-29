@@ -80,6 +80,7 @@
 ---
 
 ## Week 5: April 21 - April 25, 2025
+- [Debugging Rails Applications](https://guides.rubyonrails.org/debugging_rails_applications.html)
 - **Monday, April 21**: *Ruby Weekly*  
   - **Focus**: Review the latest issue for new links and trends.  
 - **Tuesday, April 22**: *BigBinary Blog*  
