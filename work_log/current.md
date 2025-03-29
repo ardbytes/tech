@@ -65,6 +65,7 @@
 ---
 
 ## Week 4: April 14 - April 18, 2025
+- [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
 - **Monday, April 14**: *Airbnb Engineering Blog*  
   - **Focus**: Read a Ruby or Rails backend engineering post.  
 - **Tuesday, April 15**: *Basecamp Blog*  
