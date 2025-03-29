@@ -50,6 +50,7 @@
 ---
 
 ## Week 3: April 7 - April 11, 2025
+- [Testing Rails Applications](https://guides.rubyonrails.org/testing.html)
 - **Monday, April 7**: *Everyday Rails*  
   - **Focus**: Start the “RSpec Basics” series or a testing post.  
 - **Tuesday, April 8**: *Pat Shaughnessy*  
