@@ -34,11 +34,12 @@
 ## Week 2: March 31 - April 4, 2025
 - [Devops Server Management by milanm](https://github.com/milanm/DevOps-Roadmap?tab=readme-ov-file#5-learn-server-management)
 - [Sustainable Dev Environments](https://devbox.computer/)
-- [Siami's blog: Rails asset pipeline, old and new](https://blog.siami.fr/rails-asset-pipeline-old-and-new)
-- **Monday, March 31**: *SitePoint Ruby*  
-  - **Focus**: Read about a Ruby design pattern or technique.  
+- - **Monday, March 31**: *SitePoint Ruby*  
+  - **Focus**: Read about a Ruby design pattern or technique.
+  - [Siami's blog: Rails asset pipeline, old and new](https://blog.siami.fr/rails-asset-pipeline-old-and-new)  
 - **Tuesday, April 1**: *Ruby on Rails Official Blog*  
-  - **Focus**: Catch up on the latest Rails release notes.  
+  - **Focus**: Catch up on the latest Rails release notes.
+  - [Asset pipeline guide](https://guides.rubyonrails.org/asset_pipeline.html)
 - **Wednesday, April 2**: *Drifting Ruby*  
   - **Focus**: Watch/read a short screencast on a Ruby trick.  
 - **Thursday, April 3**: *BigBinary Blog*  
