@@ -42,11 +42,8 @@
   - [Asset pipeline guide](https://guides.rubyonrails.org/asset_pipeline.html)
 - **Wednesday, April 2**: *Drifting Ruby*  
   - **Focus**: Watch/read a short screencast on a Ruby trick.  
-- **Thursday, April 3**: *BigBinary Blog*  
-  - **Focus**: Dive into a Rails 7+ feature explanation.  
-- **Friday, April 4**: *Code with Jason*  
-  - **Focus**: Study an RSpec or Rails anti-pattern post.  
-
+- **Thu-Fri, April 3, 4**: *BigBinary Blog*
+  - **Focus**: Dive into a Rails 7+ feature explanation.
 ---
 
 ## Week 3: April 7 - April 11, 2025
@@ -95,8 +92,8 @@
 ---
 
 ## Week 6: April 28 - May 2, 2025
-- **Monday, April 28**: *Code with Jason*  
-  - **Focus**: Dive deeper into a testing or refactoring topic.  
+- **Monday, April 28**: *BigBinary Blog*
+  - **Focus**: Read about a Ruby or Rails under-the-hood topic. 
 - **Tuesday, April 29**: *Everyday Rails*  
   - **Focus**: Continue with testing or a practical Rails tip.  
 - **Wednesday, April 30**: *Pat Shaughnessy*  
