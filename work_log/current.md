@@ -49,8 +49,8 @@
 ## Week 3: April 7 - April 11, 2025
 - **Monday, April 7**: *[Testing Rails Applications](https://guides.rubyonrails.org/testing.html)*  
   - **Focus**: Read the article
-- **Tuesday, April 8**: *Pat Shaughnessy*  
-  - **Focus**: Tackle a Ruby internals deep dive (e.g., VM or GC).  
+- **Tuesday, April 8**: *Apache Server*
+  - **Focus**: Read this [article](https://www.twaino.com/en/blog/website-creation/apache-server-2/).  
 - **Wednesday, April 9**: *Avdi Grimm’s Blog*  
   - **Focus**: Read a philosophical or object-model post.  
 - **Thursday, April 10**: *Shopify Engineering Blog*  
