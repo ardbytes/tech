@@ -51,8 +51,8 @@
   - **Focus**: Read the article
 - **Tuesday, April 8**: *Apache Server*
   - **Focus**: Read this [article](https://www.twaino.com/en/blog/website-creation/apache-server-2/).  
-- **Wednesday, April 9**: *Avdi Grimm’s Blog*  
-  - **Focus**: Read a philosophical or object-model post.  
+- **Wednesday, April 9**: *[Testing Rails Applications](https://guides.rubyonrails.org/testing.html)*  
+  - **Focus**: Read the article. 
 - **Thursday, April 10**: *Shopify Engineering Blog*  
   - **Focus**: Explore a Ruby/Rails scaling post (e.g., Vitess or YARP).  
 - **Friday, April 11**: *GitHub Engineering Blog*  
