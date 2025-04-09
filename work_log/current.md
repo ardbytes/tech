@@ -54,7 +54,8 @@
 - **Wednesday, April 9**: *[Testing Rails Applications](https://guides.rubyonrails.org/testing.html)*  
   - **Focus**: Read the article. 
 - **Thursday, April 10**: *Shopify Engineering Blog*  
-  - **Focus**: Explore a Ruby/Rails scaling post (e.g., Vitess or YARP).  
+  - **Focus**: Explore a Ruby/Rails scaling post (e.g., Vitess or YARP).
+  - [Chapter 5: Testing Rails Applications](https://guides.rubyonrails.org/testing.html#functional-testing-for-controllers)  
 - **Friday, April 11**: *GitHub Engineering Blog*  
   - **Focus**: Check a Ruby-related post or API development article.  
 
