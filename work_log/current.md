@@ -53,8 +53,8 @@
   - **Focus**: Read this [article](https://www.twaino.com/en/blog/website-creation/apache-server-2/).  
 - **Wednesday, April 9**: *[Testing Rails Applications](https://guides.rubyonrails.org/testing.html)*  
   - **Focus**: Read the article. 
-- **Thursday, April 10**: *Shopify Engineering Blog*  
-  - **Focus**: Explore a Ruby/Rails scaling post (e.g., Vitess or YARP).
+- **Thursday, April 10**: *Shopify Engineering Blog*
+  - **Focus**: Read one from [this list](#shopify).
   - [Chapter 5: Testing Rails Applications](https://guides.rubyonrails.org/testing.html#functional-testing-for-controllers)  
 - **Friday, April 11**: *GitHub Engineering Blog*  
   - **Focus**: Check a Ruby-related post or API development article.  
@@ -67,8 +67,8 @@
   - **Focus**: Read a Ruby or Rails backend engineering post.  
 - **Tuesday, April 15**: *Basecamp Blog*  
   - **Focus**: Dive into a Ruby on Rails engineering post (e.g., scaling HEY).  
-- **Wednesday, April 16**: *RubyGuides*  
-  - **Focus**: Revisit for a performance or Enumerable tip.  
+- **Wednesday, April 16**: *Shopify Engineering Blog*  
+  - **Focus**: Read one from [this list](#shopify). 
 - **Thursday, April 17**: *thoughtbot Blog*  
   - **Focus**: Check a Rails optimization or gem-related article.  
 - **Friday, April 18**: *GoRails*  
@@ -101,7 +101,45 @@
 - **Thursday, May 1**: *Avdi Grimm’s Blog*  
   - **Focus**: Explore a Ruby coding pattern or philosophy.  
 - **Friday, May 2**: *Shopify Engineering Blog*  
-  - **Focus**: Revisit for a Ruby tooling or performance post.  
+  - **Focus**: Read one from [this list](#shopify).
+
+---
+
+### <a name="shopify"></a> Top 10 Rails-Specific Blog Posts from Shopify Engineering
+
+Here’s a curated list of standout Rails-related posts from the [Shopify Engineering Blog](https://shopify.engineering/), blending performance, scalability, and practical Rails insights.
+
+1. **["How to Write Fast Code in Ruby on Rails" (October 8, 2019)](https://shopify.engineering/how-to-write-fast-code-ruby-on-rails)**  
+   - A guide to optimizing Rails performance with efficient Active Record queries, caching, and background jobs. Packed with practical examples for speeding up apps.
+
+2. **["Dealing with Contention: How We Improved Rails Concurrency on MySQL" (October 25, 2018)](https://shopify.engineering/dealing-with-contention-how-we-improved-rails-concurrency-mysql)**  
+   - Details Shopify’s fixes for database contention in Rails, improving concurrency and reducing lock wait timeouts on MySQL—a scalability gem.
+
+3. **["Living on the Edge of Rails" (August 21, 2019)](https://shopify.engineering/living-edge-rails)**  
+   - Explores Shopify’s bold choice to run Rails edge in production, managing weekly updates and contributing to the framework. A unique look at cutting-edge Rails usage.
+
+4. **["Scaling Background Jobs at Shopify" (March 17, 2020)](https://shopify.engineering/scaling-background-jobs-shopify)**  
+   - Covers how Shopify scales Sidekiq and Active Job to handle millions of jobs daily, with queue optimizations and worker tuning for Rails at scale.
+
+5. **["Upgrading Shopify to Rails 5" (June 20, 2017)](https://shopify.engineering/upgrading-shopify-to-rails-5)**  
+   - Chronicles the challenges and strategies of upgrading Shopify’s massive Rails monolith to Rails 5, offering lessons for large-scale migrations.
+
+6. **["Shopify-Made Patterns in Our Rails Apps" (July 13, 2021)](https://shopify.engineering/shopify-made-patterns-our-rails-apps)**  
+   - Highlights custom Rails patterns like podded sharding and maintenance tasks, showing how Shopify adapts Rails for their unique needs.
+
+7. **["Shopify’s Flashback: Rewriting a Rails App From Scratch" (September 27, 2016)](https://shopify.engineering/shopify-flashback-rewriting-rails-app-scratch)**  
+   - A case study on rewriting a Rails service for better performance, contrasting old and new approaches to tackle scalability bottlenecks.
+
+8. **["Introducing the Merge Queue" (June 8, 2018)](https://shopify.engineering/introducing-the-merge-queue)**  
+   - Explains Shopify’s merge queue for Rails deployments, solving concurrency issues in their CI/CD pipeline—a scalability enabler.
+
+9. **["Load Balancing Rails at Scale" (November 15, 2017)](https://shopify.engineering/load-balancing-rails-scale)**  
+   - Dives into load balancing Rails with HAProxy and middleware, ensuring responsiveness during traffic surges like Black Friday.
+
+10. **["Hotwire for Rails at Shopify Scale" (December 14, 2022)](https://shopify.engineering/hotwire-for-rails-at-shopify-scale)**  
+    - Showcases Shopify’s use of Hotwire (Turbo and Stimulus) to enhance Rails apps with dynamic, real-time features at massive scale.
+
+This list offers a mix of technical depth—code snippets, metrics, and architectural insights—making it a valuable resource for Rails developers looking to level up.
 
 ---
 
