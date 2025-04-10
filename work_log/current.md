@@ -57,7 +57,8 @@
   - **Focus**: Read one from [this list](#shopify).
   - [Chapter 5: Testing Rails Applications](https://guides.rubyonrails.org/testing.html#functional-testing-for-controllers)  
 - **Friday, April 11**: *GitHub Engineering Blog*  
-  - **Focus**: Check a Ruby-related post or API development article.  
+  - **Focus**: Check a Ruby-related post or API development article.
+  - Read [Sustainable Dev Environments](https://devbox.computer/)
 
 ---
 
