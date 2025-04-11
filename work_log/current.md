@@ -59,6 +59,7 @@
 - **Friday, April 11**: *GitHub Engineering Blog*  
   - **Focus**: Check a Ruby-related post or API development article.
   - Read [Sustainable Dev Environments](https://devbox.computer/)
+- **Saturday, April 12**: *- Read [Sustainable Dev Environments](https://devbox.computer/)*
 
 ---
 
